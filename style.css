@@ -424,7 +424,7 @@ footer .copyright a:hover{
     object-fit: cover;
 }
 
-#cart-bottom table tbody a {
+#cart-container a {
     color: #8d8c89;
 }
 
